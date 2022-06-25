@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/17545.JPG");
+  background-image: url("https://elaginatv.github.io/portfolio/img/17545.JPG");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -38,12 +38,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-email-header.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-phone-header.svg");
 }
 
 .hero-image {
@@ -111,15 +111,15 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-css.svg");
 }
 
 .skill-js {
-  background-image: url("img/icon-js.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-js.svg");
 }
 
 .level {
@@ -189,10 +189,10 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-email-footer.svg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("https://elaginatv.github.io/portfolio/img/icon-phone-footer.svg");
 }
